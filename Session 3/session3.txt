@@ -1,0 +1,10 @@
+"my account on linux named osc so i changed the name you choose to osc2 and the group also named it osc_group2 "
+in step 1 --> i add a user named osc2 , create pass and add a group named osc_group2
+add osc2 to osc_group2 , privileges to osc2 , switch to osc2
+using sudo useradd , pass , groupadd , usermod (options) , su
+in step 2 --> i made a directory and 3 files in it , each one has its own permission as asked
+using sudo mkdir , touch , chmod
+in step 3 --> changed owner files with chown , chgrp
+in step 4 --> used & , kill , killall , jobs and install vim
+in step 5 --> installed and removed neofetch 
+using sudo apt (installed / removed) neofetch
